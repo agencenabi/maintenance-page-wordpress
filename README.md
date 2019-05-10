@@ -1,4 +1,4 @@
-#Maintenance Page WordPress Plugin
+# Maintenance Page WordPress Plugin
 
 A WordPress Plugin to Activate/Deactivate the Nabi Branded Maintenance Page.
 
